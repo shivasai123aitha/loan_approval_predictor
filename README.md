@@ -1,5 +1,7 @@
 # Loan Approval Predictor
 
+## InternId :CITS6520
+
 ## 📌 Project Overview
 
 The **Loan Approval Predictor** is a Machine Learning project that predicts whether a loan application will be **Approved** or **Rejected** based on an applicant's personal and financial information.
@@ -154,10 +156,4 @@ Loan Approved ✅
 
 ---
 
-## 👨‍💻 Author
 
-**Shiva Sai**
-
-B.Tech Information Technology Student
-
-Interested in Machine Learning, Data Science, and Full Stack Development.
